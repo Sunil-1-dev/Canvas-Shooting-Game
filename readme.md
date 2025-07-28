@@ -23,7 +23,7 @@ A fun and interactive 2D shooting game built using vanilla JavaScript and the HT
 ## Project Structure
 
 ```text
-📦 your-project/
+📦 project/
 ├─ index.html
 ├─ style.css
 ├─ main.js
